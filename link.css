@@ -1,0 +1,8 @@
+body{
+    background-image: url("https://imageio.forbes.com/specials-images/imageserve/6681481daabbbecbe20ea2aa/Google-logo-on-smartphone-on-top-of-a-keyboard-/960x0.jpg?format=jpg&width=960");
+
+    background-size:cover ;
+}   
+.red{
+    color:rgba(67, 255, 192, 0.854);
+}

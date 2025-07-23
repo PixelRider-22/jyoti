@@ -1,0 +1,52 @@
+ body {
+     /* background-color: aqua; */
+     background-color: aqua;
+
+
+ }
+
+ .red {
+     color: rgb(223, 223, 6);
+ }
+
+ .green {
+     color: red;
+ }
+
+ .red {
+     color: rgb(0, 0, 0);
+ }
+
+ #first_div {
+     background-color: rgba(0, 0, 0, 0.578);
+     height: 100px;
+     margin: 50px 20px;
+     width: 50%;
+
+     /* padding-left: 5px; */
+     padding-left: 30px;
+
+     /* border-width: 30px;
+    border-style:solid; */
+
+     border: thick double;
+     border-radius: 40px;
+
+     box-sizing: content-box;
+
+
+     border: solid #5b6dcd 10px;
+     padding: 5px;
+
+ }
+
+ table,th, td,caption {
+     border: 1px double #5b6dcd;
+ }
+ .demo{
+    color: bisque;
+    margin-top: 50px;
+ }
+ .go{
+    color: rgb(43, 226, 101);
+ }
