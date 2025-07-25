@@ -1,6 +1,13 @@
 body{
-   background-image:url("github\jyoti\WhatsApp Image 2025-07-25 at 14.22.24_bdf8ebb9.jpg ");
-   
+    body {
+      margin: 0;
+      padding: 0;
+      background-image: url('github\jyoti\WhatsApp Image 2025-07-25 at 14.22.24_bdf8ebb9.jpg');  /* Replace with your correct relative path */
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+    }
 }
 .wel{
     background-color: aqua;
