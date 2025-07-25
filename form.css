@@ -54,3 +54,11 @@
     border: 2px solid rgb(255, 0, 0);
     text-align: end;
  }
+ #go{
+    /* text-transform: uppercase; */
+    line-height: 2;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+    font-style: italic;
+    
+ }
