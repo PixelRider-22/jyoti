@@ -25,7 +25,12 @@ pre {
  .red { 
     color: blue;
   }
-#tree {
+.center {
   color: rgb(177, 10, 10);
-  margin-left: 20%;
+  margin-left: 10%;
+}
+.nem{
+  text-align: start;
+color: azure;
+ 
 }
