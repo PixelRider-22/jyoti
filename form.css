@@ -13,7 +13,7 @@
      color: red;
  }
 
- .red {
+ .red{
      color: rgb(0, 0, 0);
  }
 
@@ -49,4 +49,8 @@
  }
  .go{
     color: rgb(43, 226, 101);
+ }
+ #second_div{
+    border: 2px solid rgb(255, 0, 0);
+    text-align: end;
  }
