@@ -31,12 +31,18 @@ body {
   color: rgb(177, 10, 10);
   text-align: center;
   margin-top: 20px;
+  border: 2px solid black;
+  
+  
 
 }
 
-.nem {
+.new {
  
   color: azure;
  font-size: 18px;
 
+}
+.nom{
+  height: 500px;
 }

@@ -4,8 +4,9 @@ body {
 }
 #div{
     text-align: center;
-    border: 2px solid blue;
+    border: 5px solid blue;
     background-color:lightblue;
+    color: aliceblue;
 
 }
 #hello{
