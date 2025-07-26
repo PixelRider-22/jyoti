@@ -1,6 +1,7 @@
 body {
 
   background-color: black;
+  margin: 0;
   /* background-image: url(jyoti.jpg); */
 
 }
@@ -14,23 +15,28 @@ body {
 }
 
 
-pre {
+/* pre {
   margin-left: 30%;
-}
+} */
 
 .wel {
   background-color: aqua;
 }
 
- .red { 
-    color: blue;
-  }
+.red {
+  color: blue;
+}
+
 .center {
   color: rgb(177, 10, 10);
-  margin-left: 10%;
+  text-align: center;
+  margin-top: 20px;
+
 }
-.nem{
-  text-align: start;
-color: azure;
+
+.nem {
  
+  color: azure;
+ font-size: 18px;
+
 }

@@ -1,0 +1,25 @@
+body {
+ background: linear-gradient(0.25turn, #cf9693, #e0e40c, #62b2a0);
+ 
+}
+#div{
+    text-align: center;
+    border: 2px solid blue;
+    background-color:lightblue;
+
+}
+#hello{
+    color: blue;
+}
+.ok{
+    color: rgb(26, 255, 0);
+    background-color: aliceblue;
+    border: 5px solid red;
+    text-align: center;
+}
+table,th,td,caption{
+    border: 2px double #5b6dcd;
+}
+.top{
+    color: rgb(255, 0, 43);
+}
