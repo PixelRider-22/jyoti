@@ -22,7 +22,7 @@ body {
     color: rgb(26, 255, 0);
     background-color: aliceblue;
     border: 5px solid red;
-    text-align: justify;
+    text-align: center;
 }
 
 table,
@@ -43,12 +43,44 @@ caption {
 .new {
     background-color: aqua;
 }
-.two{
+
+.two {
     background: conic-gradient(red, orange, yellow, green, blue);
     height: 400px;
-    width: 1050px;
+    width: 734px;
     margin: 20px 30px 50px 90px;
     /* box-shadow: 5px 5px 5px black; */
     /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
     box-shadow: 0px 5px 15px red;
+}
+
+.id {
+    text-align: center;
+    color: rgb(235, 12, 12);
+    background-color: antiquewhite;
+    margin: 0px;
+}
+
+.pop {
+    /* background-color: rgb(94, 255, 0);
+    margin: 20px;
+    height: 319px;
+    width: 696px */
+    border-radius: 25px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB7PNgiKdrlY_k7DMTgLq8f5OCchpmdC-o0A&s);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px;
+    width: 636px;
+    height: 259px;
+    margin: 21px;
+    color: white;
+
+}
+input[type="submit"]{
+    color: green
+    
+}
+.take{
+    color:rgb(103, 255, 2);
 }
