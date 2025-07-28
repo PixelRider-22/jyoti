@@ -70,17 +70,27 @@ caption {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB7PNgiKdrlY_k7DMTgLq8f5OCchpmdC-o0A&s);
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 30px;
-    width: 636px;
-    height: 259px;
+    padding: 30 px;
+    width: 689px;
+    height: 320px;
     margin: 21px;
     color: white;
 
 }
-input[type="submit"]{
+
+input[type="submit"] {
     color: green
-    
 }
-.take{
-    color:rgb(103, 255, 2);
+
+.take {
+    color: rgb(103, 255, 2);
+    margin: 21px;
+}
+
+.pop form .np {
+    
+ text-align: left;
+    padding-left: 29px;
+    padding-right: 27px;
+    padding-top: 47px;
 }
