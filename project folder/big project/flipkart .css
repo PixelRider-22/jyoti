@@ -2,6 +2,8 @@
    background-color: rgb(217, 223, 223);
  }
 
+
+
  .full {
    display: flex;
    background-color: #ffffff;
@@ -210,30 +212,30 @@
 
 
  .phones {
-   display: flex
-;
-    gap: 20px;
-    text-align: center;
-    background-color: #FFFFFF;
-    height: 280px;
-    margin: inherit;
-    align-items: end; 
+   display: flex;
+   gap: 20px;
+   text-align: center;
+   background-color: #FFFFFF;
+   height: 280px;
+   margin: inherit;
+   align-items: end;
    margin: inherit;
  }
 
  .phones p {
    justify-content: right;
-   
+
  }
 
 
  .phones img {
    width: 120px;
-   
+
  }
-.phones h2{
- margin: -60px -141px 30px 15px;
-   
+
+ .phones h2 {
+   margin: -60px -141px 30px 15px;
+
 
  }
 
@@ -244,11 +246,69 @@
  .phones b {
    color: brown;
  }
- .top{
-  margin-left: 12px;
-  display: block;
+
+ .top {
+   margin-left: 12px;
+   display: block;
  }
- .block{
-  align-items: center;
-  display: flex;
+
+ .block {
+   align-items: center;
+   display: flex;
+ }
+
+ .buttom {
+   display: flex;
+   background-color: #060606e8;
+   height: 345px;
+ }
+
+
+ .font {
+   color: #878787;
+   font-size: 12px;
+   margin: 43px 48px 27px 68px;
+ }
+
+ .about {
+   font-size: 14px;
+   padding-left: 65px;
+   padding-top: 10px;
+   margin-block: -24px;
+ }
+
+ .about ul {
+   list-style-type: none;
+   padding: 0;
+   margin: 0;
+ }
+
+ .about li {
+   margin-bottom: 5px;
+   color: white;
+ }
+
+ .top {
+   border-left: 1px solid rgb(176, 160, 160);
+   margin-top: 40px;
+   margin-bottom: 65px;
+
+
+ }
+
+ .go {
+   color: #878787;
+   font-size: 14px;
+
+ }
+
+ .come {
+   display: flex;
+   align-items: center;
+ }
+
+ .come img {
+   height: 23px;
+   margin-top: -5px;
+   
  }
