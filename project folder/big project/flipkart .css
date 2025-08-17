@@ -260,7 +260,7 @@
  .buttom {
    display: flex;
    background-color: #060606e8;
-   height: 345px;
+   height: 298px;
  }
 
 
@@ -310,5 +310,28 @@
  .come img {
    height: 23px;
    margin-top: -5px;
-   
+
+ }
+
+ .end {
+
+   border-top: 1px solid #454d5e;
+   padding: 25px 0;
+  
+   width: 100%;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   background-color: #060606e8;
+
+
+ }
+ .end span{
+  color: white;
+  font-size: 12px;
+
+ }
+ .img{
+  display: flex;
+ 
  }
