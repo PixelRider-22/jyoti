@@ -305,6 +305,7 @@
  .come {
    display: flex;
    align-items: center;
+   gap: 12px;
  }
 
  .come img {
@@ -317,7 +318,7 @@
 
    border-top: 1px solid #454d5e;
    padding: 25px 0;
-  
+
    width: 100%;
    display: flex;
    justify-content: space-evenly;
@@ -326,12 +327,14 @@
 
 
  }
- .end span{
-  color: white;
-  font-size: 12px;
+
+ .end span {
+   color: white;
+   font-size: 12px;
 
  }
- .img{
-  display: flex;
- 
+
+ .img {
+   display: flex;
+
  }
