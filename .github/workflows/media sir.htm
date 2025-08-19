@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>media quaries</title>
+
+    <style>
+        body {
+            background-color: red;
+        }
+
+
+        @media only screen and (orientation: landscape) {
+            body {
+                background-color: rgb(33, 0, 249);
+            }
+        }
+
+        /* @media only screen and (max-width:600px) {
+            .boxes {
+                flex-wrap:wrap;
+            }
+        } */
+
+        .button {
+            margin-left: 500px;
+        }
+        .boxes {
+            display: flex;
+            border: 2px solid black;
+            flex-wrap: wrap;
+        }
+
+        .box {
+            height: 300px;
+            width: 300px;
+            margin: 5px;
+            padding: 2px;
+            background: yellow;
+        }
+
+        @media only screen and (max-width: 334px) {
+            .boxes {
+                flex-direction: column;
+            }
+
+            .box{
+                background: black;
+            }
+        }
+
+        @media only screen and (max-width: 570px) {
+            .button {
+                margin-left: 100px;
+            }
+        }
+
+        
+    </style>
+</head>
+
+<body>
+    <div class="boxes">
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </div>
+    <button class="button">hello</button>
+</body>
+
+</html>

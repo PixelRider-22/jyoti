@@ -338,3 +338,16 @@
    display: flex;
 
  }
+
+
+ 
+.products {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Laptop me 4 item ek row me */
+  gap: 20px;
+}
+
+.header, .footer {
+  padding: 20px 50px;
+}
+
